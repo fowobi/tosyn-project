@@ -1,0 +1,44 @@
+#header-content{margin-top: 50px;font-weight: lighter;text-align: left;padding-left: 20px;}
+
+.header-p{margin-top: 10px;padding-left: 10px;font-size: 3rem;}
+
+#header-h1{margin-top: 30px;font-weight: lighter;font-size: 5rem;}
+
+html{background-color: #dfecec;}
+#nav-bar{background-color: #19101a58;text-align: center;position: sticky;z-index: 100;font-weight: lighter;
+display: inline-block;padding: 10px;}
+
+.nav-link{text-decoration: none;margin-left: 5rem;font-size: 1.2rem;font-weight: lighter;
+padding-right: 90px;text-shadow: 2px 1px black;}
+
+.c-site-header{background-image: url(https://images.unsplash.com/photo-1658163724548-29ef00812a54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxM3xibzhqUUtUYUUwWXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60);
+background-attachment: fixed;background-size: cover;width:100vw;height: 100vh;}
+
+
+.grid-flex{background-color:#b2b1cc;width: 100vw;}
+
+.grid-container{display: grid;grid-template-columns: 1fr 1fr 1fr;gap: 50px;margin-right: 30px;margin-left: 30px
+    ;margin-bottom: 30px;padding: 10px;padding-top: 50px;padding-bottom: 50px;}
+
+  .grid-p{text-align: left;margin-top: 5px;}
+
+ .grid-h3{text-align: center;font-weight: lighter;padding-bottom: 10px;font-size: 2rem;border-bottom: 0.5px solid #332a38;margin-bottom: 30px;}
+
+.grid-style{padding: 50px;font-weight: lighter;border: 0.5px solid#332a38;border-left: 5px solid #332a38;}
+
+#vid-div{text-align: center;width: 100%;margin-top: 30px;margin-bottom: 30px;}
+
+#image-car-wrapper{margin-top: 50px;margin-right: 50px;margin-left: 50px;border-top: 00.5px solid #5f9f94;
+  border-bottom: 0.5px solid #5f9f94;padding: 30px;position: relative;text-align: center;}
+
+  #contact{margin-top: 50px;margin-right: 50px;margin-left: 50px;border-top: 00.5px solid #5f9f94;
+    border-bottom: 0.5px solid #5f9f94;padding: 30px;position: relative;text-align: center;}
+
+  #comment-div{margin-top: 50px;border: #bf9f94;color: #191321;text-align: center;}
+  
+  #list-icons{display: inline-block;position: absolute;right: 1%;bottom: 0;margin: 0;padding: 0;opacity: 60%;}
+
+
+  #footer-p{right: 5%;bottom: 25%;display: inline-block;position: absolute;right: 1%;bottom: 0;margin: 0;padding: 0;opacity: 60%;}
+
+  #footer-outer-div{margin-top:5%;background-color: #84d4df;height: 50px;white-space: nowrap;position: relative;width: 100%;}
